@@ -1,0 +1,30 @@
+.userName{
+    font-size: small;
+    padding: 2px;
+}
+
+.userText{
+    padding: 5px;
+    background-color:#007bff ;
+    width: 50%;
+    border-radius: 5px;
+    color: white;
+    margin-top: 2px;
+    margin-left: 2px;
+    
+}
+
+.adminName{
+    font-size: small;
+    padding: 2px;
+}
+
+.adminText{
+    padding: 5px;
+    background-color:#007bff ;
+    width: 50%;
+    border-radius: 5px;
+    color: white;
+    margin-top: 2px;
+    margin-left: 2px;
+}

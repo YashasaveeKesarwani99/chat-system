@@ -1,0 +1,6 @@
+.infoBarInnerClass{
+    display: flex;
+    justify-content: space-between;   
+    padding: 5px;
+    color: white;
+}
